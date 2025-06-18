@@ -15,10 +15,10 @@ node -v
 npm -v
 📂 Como usar este projeto
 1. Clone o repositório
-git clone https://github.com/caiopa3/API-Produtos-Sustentaveis.git
-cd API-Produtos-Sustentaveis
+git clone https://github.com/KimberlyMoura/api-top.git
+cd API-Comid
 2. Vá até a pasta da API
-cd API
+cd API-bebiDAS E COMIDAS
 3. Instale as dependências
 Este projeto usa os pacotes express e cors. Para instalar, rode:
 
@@ -30,10 +30,7 @@ node index.js
 Se tudo estiver certo, a API vai iniciar e mostrar algo como:
 
 Servidor rodando em http://localhost:3000
-🌐 Sobre a pasta Site/
-A pasta Site/ contém um exemplo simples de como consumir a API usando JavaScript no navegador.
 
-Você pode abrir o arquivo index.html diretamente no seu navegador para testar a integração com a API. Se os produtos estiverem aparecendo, funcionou!
 
 🛠️ Tecnologias usadas
 Node.js
